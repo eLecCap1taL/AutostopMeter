@@ -1,0 +1,15 @@
+Format Confirmed
+[desubtick-joy-0.0001] [12 times]:
+  [Average Glide Distance (smaller is better)]:  9.789235
+  [Maximum Glide Distance]:  11.554321
+  [Minimum Glide Distance]:  7.987548
+  [Range (Max - Min)]:  3.566773
+  [Variance]:  1.142142
+  [Standard Deviation]:  1.068710
+[desubtick-keyjoy-0.0001] [12 times]:
+  [Average Glide Distance (smaller is better)]:  15.639669
+  [Maximum Glide Distance]:  17.667114
+  [Minimum Glide Distance]:  13.924926
+  [Range (Max - Min)]:  3.742188
+  [Variance]:  1.843174
+  [Standard Deviation]:  1.357636

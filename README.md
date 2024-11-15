@@ -90,7 +90,7 @@ toggleconsole
 [exit]
 ```
 
-双击 `run.bat`, 查看 `data/res.txt` !
+双击 `data/run.bat`, 查看 `data/res.txt` !
 
 你应该能看到这样的分析结果 (这是我的 Autostop 脚本 Horizon 的分析结果, 请忽略中文)
 

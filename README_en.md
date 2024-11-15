@@ -87,7 +87,7 @@ Next, go to the `data` folder, create a `dat.txt` file, and paste the console ou
 [exit]
 ```
 
-Double-click `run.bat` to view the results in `data/res.txt`!
+Double-click `data/run.bat` to view the results in `data/res.txt`!
 
 You should see an analysis result like this (this is the analysis result of my Autostop script Horizon, please ignore the Chinese text):
 
